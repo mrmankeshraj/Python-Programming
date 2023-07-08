@@ -1,0 +1,4 @@
+{
+"Arsenic": {"no. of proton": "10", "symbol": "As"},
+"Nitrogen": {"no. of proton": "14", "symbol": "N"}
+}
